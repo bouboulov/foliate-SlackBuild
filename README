@@ -22,7 +22,7 @@ Basic text-to-speech support with eSpeak NG and Festival
 Optional dependencies : 
 
 On SBo
-- libhandy :  is recommended to make the interface work better on larger as well as smaller screens
+- libhandy : is recommended to make the interface work better on larger as well as smaller screens
 - gspell : for spellchecking notes
 - tracker : can be used to track the locations of files
 - dictd or sdcv : to use offline dictionaries
