@@ -1,0 +1,31 @@
+A simple and modern GTK eBook viewer, built with GJS and Epub.js
+
+
+Supported formats:
+EPUB (.epub, .epub3)
+Kindle (.azw, .azw3) and Mobipocket (.mobi)
+FictionBook (.fb2, .fb2.zip)
+Comic book archive (.cbr, .cbz, .cbt, .cb7)
+Plain text (.txt)
+
+Single-column, two-column, or continuous scrolling layouts
+Adjust font, line-spacing, and margins
+Customize colors and brightness
+Reading progress slider with chapter marks
+Bookmarks and annotations
+Find in book
+Open footnotes in popovers
+Touchpad gestures—use two-finger swipe to turn the page
+Quick dictionary lookup with Wiktionary, Wikipedia, dictd, and sdcv, or translate text with Google Translate
+Basic text-to-speech support with eSpeak NG and Festival
+
+Optional dependencies : 
+
+On SBo
+- libhandy :  is recommended to make the interface work better on larger as well as smaller screens
+- gspell : for spellchecking notes
+- tracker : can be used to track the locations of files
+- dictd or sdcv : to use offline dictionaries
+
+Non-SBo
+- festival or espeak-ng : text-to-speech support

@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+foliate: foliate (A simple and modern GTK eBook viewer)
+foliate:
+foliate: Supported formats :
+foliate: EPUB (.epub, .epub3)
+foliate: Kindle (.azw, .azw3) and Mobipocket (.mobi)
+foliate: FictionBook (.fb2, .fb2.zip)
+foliate: Comic book archive (.cbr, .cbz, .cbt, .cb7)
+foliate: Plain text (.txt)
+foliate:
+foliate:
+foliate: Website: https://johnfactotum.github.io/foliate/
