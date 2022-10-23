@@ -16,13 +16,20 @@ Bookmarks and annotations
 Find in book
 Open footnotes in popovers
 Touchpad gestures—use two-finger swipe to turn the page
-Quick dictionary lookup with Wiktionary, Wikipedia, dictd, and sdcv, or translate text with Google Translate
+Quick dictionary lookup with 
+- Wiktionary
+- Wikipedia
+- dictd
+- sdcv
+- translate text with Google Translate
+
 Basic text-to-speech support with eSpeak NG and Festival
 
 Optional dependencies : 
 
 On SBo
-- libhandy : is recommended to make the interface work better on larger as well as smaller screens
+- libhandy : is recommended to make the interface
+  work better on larger as well as smaller screens
 - gspell : for spellchecking notes
 - tracker : can be used to track the locations of files
 - dictd or sdcv : to use offline dictionaries
